@@ -1,3 +1,4 @@
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" type="text/javascript"></script>
 <script src="script.js" type="text/javascript"></script>
 
 # Cooking-Notes  
