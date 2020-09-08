@@ -18,3 +18,4 @@ Oven to 4.5, add a little oil to the pan.   Some say it's not required but I've 
 Wok  
 Container for boiling water  
 Container for cool water  
+Blender for grinding spinach  
