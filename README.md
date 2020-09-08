@@ -1,1 +1,1 @@
-See [index.md](./index.md)
+Hosted at https://lionelbergen.github.io/Cooking-Notes/
