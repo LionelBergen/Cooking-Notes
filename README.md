@@ -9,7 +9,7 @@ Oven to 4.5, add a little oil to the pan.   Some say it's not required but I've 
 # More complicated / real meals  
 ## Palak Paneer  
 ### Ingredients  
-|x|x|
+|Ingredient|amount|
 |-|-|
 |Salt|~2 tablespoons|
 |spinach|x|
