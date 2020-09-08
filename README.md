@@ -1,3 +1,4 @@
+<script src="script.js" type="text/javascript"></script>
 # Cooking-Notes  
 My own personal notes for cooking different meals
 
